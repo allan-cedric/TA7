@@ -6,7 +6,7 @@ import cv2 as cv
 import glob
 
 
-# Prepara a criteria:
+# Prepara os criterios a serem usados:
 # Define a precisao, numeros de iteracoes a serem feitos e outras informacoes
 criteria = (cv.TERM_CRITERIA_EPS + cv.TERM_CRITERIA_MAX_ITER, 30, 0.001)
 
