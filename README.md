@@ -3,5 +3,5 @@ Resolução do TA7 - Atividade 7 da disciplina de **Robótica Móvel (CI1020) - 
 
 ### Integrantes:
 
-*@allan-cedric
-*@gabrielnhn
+* @allan-cedric
+* @gabrielnhn
