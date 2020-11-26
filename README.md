@@ -1,2 +1,2 @@
 # TA7
-Resolução do TA7 - Disciplina de Robótica Móvel
+Resolução do TA7 - Atividade 7 da disciplina de *Robótica Móvel (CI1020) - Curso de Ciência da Computação - UFPR.*
